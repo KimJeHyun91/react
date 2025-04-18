@@ -1,0 +1,17 @@
+#add_item_button{
+    background-color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    padding: .3%;
+}
+#add_item_input{
+    margin-top: 2%;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 5px 0 5px 0;
+    font-size: 1.5em;
+}
+#add_item_input:focus{
+    outline: none;
+}

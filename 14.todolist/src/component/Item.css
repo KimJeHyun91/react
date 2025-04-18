@@ -1,0 +1,16 @@
+#item{
+    width: 1000px;
+    margin: auto;
+    text-align: start;
+    font-size: 2em;
+    padding: .5%;
+}
+#item_delete_button{
+    background-color: white;
+    font-size: .7em;
+    cursor: pointer;
+    padding: .3%;
+}
+#item_checkbox{
+    scale: 2;
+}

@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+#header{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#logo{
+    width: 100px;
+    height: 50px;
+    background-color: antiquewhite;
+}
+#serch{
+    width: 400px;
+    border-style: none;
+    outline-style: hidden;
+    margin-left: 20px;
+}
